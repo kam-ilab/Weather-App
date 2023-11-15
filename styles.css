@@ -1,0 +1,81 @@
+h1,
+h2,
+h3 {
+  color: orangered;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+p {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+ul {
+  position: relative;
+  left: -10px;
+  top: 170px;
+}
+
+li {
+  list-style: none;
+  text-align: left;
+}
+
+hr {
+  border: none;
+  border-top: 3px solid orangered;
+}
+.container-page {
+  border: 3px solid orangered;
+  border-radius: 2%;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 850px;
+}
+
+.fa-solid {
+  font-size: 30px;
+}
+
+.row {
+  text-align: center;
+  color: orangered;
+}
+
+.sun {
+  font-size: 100px;
+}
+
+.today-temp {
+  color: orangered;
+  font-size: 120px;
+  font-weight: 350px;
+}
+
+.today-temp-highlow {
+  color: orangered;
+  font-size: 35px;
+}
+
+.forecast {
+  text-align: left;
+  font-weight: normal;
+}
+
+.temps {
+  margin-top: 0 auto;
+  line-height: 2;
+}
+
+.emoji {
+  font-size: 18px;
+  transform: scale(2);
+}
